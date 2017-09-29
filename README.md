@@ -1,4 +1,5 @@
 # Pythonproject
+#addtion, substrat, product,divi.
 n=20
 m=30
 sum=n+m
@@ -9,3 +10,7 @@ print(sum)
 print(sub)
 print(pro)
 print(div)
+
+
+
+# 
